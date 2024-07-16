@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "170056121317",
+    "project_id": "deltana-task",
+    "storage_bucket": "deltana-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170056121317:android:8a55f62dcdc255a864cd0c",
+        "android_client_info": {
+          "package_name": "com.example.deltana_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtu_b91m8bUn9Y0kOl09OPhCBZ8Xs-GQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
